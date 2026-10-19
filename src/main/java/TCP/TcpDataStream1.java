@@ -19,6 +19,7 @@ public class TcpDataStream1 {
 
 
         int c=a+b;
+        System.out.println(c);
         int d=a*b;
         String s=c+" "+d;
 
