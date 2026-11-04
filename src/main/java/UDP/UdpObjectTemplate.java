@@ -11,7 +11,7 @@ public class UdpObjectTemplate {
 //    socket.receive(dp);
 //    ObjectInputStream ois = new ObjectInputStream(new ByteArrayInputStream(dp.getData(), 8, dp.getLength() - 8));
 //    X x = (X) ois.readObject();
-//// B3. Xử lý yêu cầu đề bài ...
+//// B3. Xử lý yêu cầu đề bài
 //
 //    // B4. Ghi 8 bytes RequestID vào trước, rồi ghi Object mới và gửi
 //    ByteArrayOutputStream baos = new ByteArrayOutputStream();
